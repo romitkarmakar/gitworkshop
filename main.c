@@ -5,3 +5,7 @@ int a = 5;
 // gaurav
 //anupam 19a80004 86173773622 aupam43345@gmail.com
 //onkar 873882508602698
+Hello Romit Dada...this is the first time i am trying out a pull request from my home
+I had few questions...Why did only Sampark bhaiya get the tshirt from the hacktober...why did no one else participate...
+Also when is the audition for glug scheduled?
+
